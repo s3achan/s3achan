@@ -1,9 +1,3 @@
-# Hi 👋
-
-> **Building data-centric tools with Python, SQL & ML to turn raw data into decisions.**
-
----
-
 ## 🧠 About Me
 
 - 🔭 Currently building **GTM intelligence tools** with SQL, Python & Streamlit
