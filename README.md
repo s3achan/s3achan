@@ -1,4 +1,4 @@
-# Hi, I'm Shikshya 👋
+# Hi 👋
 
 > **Building data-centric tools with Python, SQL & ML to turn raw data into decisions.**
 
