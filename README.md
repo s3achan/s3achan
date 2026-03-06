@@ -1,5 +1,3 @@
----
-
 ## 🧠 About Me
 
 - 🤖 Building **NLP & Gen AI systems** — trade intent detection, sentiment analysis & LLM-powered tools
