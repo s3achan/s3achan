@@ -85,12 +85,10 @@
 ## 📊 GitHub Stats
 
 
-![s3achan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=s3achan&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=86400&v=1)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s3achan&layout=compact&hide_border=true&cache_seconds=1800)
-
-
-
+![Repos](https://img.shields.io/badge/Public_Repos-36-blue?style=flat&logo=github)
+![Stars](https://img.shields.io/badge/Stars-44-yellow?style=flat&logo=github)
+![Followers](https://img.shields.io/badge/Followers-6-green?style=flat&logo=github)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=s3achan&layout=compact&hide_border=true&cache_seconds=1800)](https://github.com/s3achan)
 
 ---
 
