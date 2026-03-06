@@ -77,10 +77,13 @@ Currently exploring **LLMs, RAG pipelines, and AI-powered data workflows**.
 [![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=python&logoColor=white)](#)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)](#)
 [![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)](#)
+[![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=flat&logo=python&logoColor=white)](#)
+
 
 **NLP & Gen AI**                              
 [![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat&logo=python&logoColor=white)](#)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)](#)
+[![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=flat&logo=openai&logoColor=white)](#)
                                               
 **Cloud & Data Engineering**
                                               
@@ -92,9 +95,11 @@ Currently exploring **LLMs, RAG pipelines, and AI-powered data workflows**.
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](#)
 [![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white)](#)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+[![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)](#)
+[![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)](#)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=python&logoColor=white)](#) 
+[![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)](#)
 
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="Spark" />
 
                                               
 **Tools**
