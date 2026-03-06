@@ -124,6 +124,7 @@ Currently exploring **LLMs, RAG pipelines, and AI-powered data workflows**.
 ![Repos](https://img.shields.io/badge/Public_Repos-36-blue?style=flat&logo=github)
 ![Stars](https://img.shields.io/badge/Stars-44-yellow?style=flat&logo=github)
 ![Followers](https://img.shields.io/badge/Followers-6-green?style=flat&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=s3achan&color=blue&style=flat)
 
 [![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=s3achan&layout=compact&hide_border=true&cache_seconds=1800)](https://github.com/s3achan)
 
