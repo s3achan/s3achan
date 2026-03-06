@@ -37,8 +37,6 @@
 
 ## 🚀 Other Projects
 
-## 🚀 Other Projects
-
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [🎬 CineMatch](https://github.com/s3achan/CineMatch) | Content-based & collaborative filtering recommender with full ML evaluation | Python, TF-IDF, Cosine Similarity, KMeans |
