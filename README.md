@@ -36,8 +36,6 @@ NLP • Gen AI • Recommender Systems • Python 🤖**
 | 🧾 **Multi-store Support** | Handles Costco, Target, Walmart — store-specific tax & discount logic |
 
 **Tech:** Python • Streamlit • OpenAI API • PostgreSQL • SQLAlchemy • AWS S3 • Plotly • pandas • boto3
-
-🔗 [View on GitHub](https://github.com/s3achan/ai-receipt-tracker)  
                                
 ---
 
