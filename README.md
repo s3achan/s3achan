@@ -84,15 +84,17 @@
 
 ## 📊 GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=s3achan&color=blue&style=flat)
 
-- 🗂️ **36** public repositories
-- ⭐ **44** stars earned
-- 🔤 Top languages: **Python • SQL • Jupyter Notebook**
+![s3achan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=s3achan&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=86400&v=1)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s3achan&layout=compact&hide_border=true&cache_seconds=1800)
+
+
+
 
 ---
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/s3achan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhuks)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/s3achan)
