@@ -51,7 +51,7 @@
 
 [![IBM Data Scientist](https://img.shields.io/badge/IBM-Data_Scientist_Professional-054ADA?style=flat&logo=ibm&logoColor=white)](https://www.credly.com/badges/b11867d8-e782-4323-9196-bc4f799e63c2)
 [![IBM Data Analyst](https://img.shields.io/badge/IBM-Data_Analyst_Professional-054ADA?style=flat&logo=ibm&logoColor=white)](https://www.credly.com/badges/793463af-f069-4dc2-8b58-1fe644fbc81b/public_url)
-[![Stanford ML](https://img.shields.io/badge/Stanford-Machine_Learning_Specialization-8C1515?style=flat&logo=coursera&logoColor=white)](https://www.coursera.org)
+[![Stanford ML](https://img.shields.io/badge/Stanford-Machine_Learning_Specialization-8C1515?style=flat&logo=coursera&logoColor=white)](https://coursera.org/share/6fcf1bad255bfbaf24fa7667a60b8d58)
 
 ## 🛠️ Tech Stack
 
