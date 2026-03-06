@@ -53,7 +53,7 @@ Currently exploring **LLMs, RAG pipelines, and AI-powered data workflows**.
 | [🚢 Titanic Survival Prediction](https://github.com/s3achan/Titanic-Survival-Eda) | Feature engineering + 6 model comparison achieving ~87% accuracy | Decision Tree, XGBoost, SVM, KNN, Random Forest |
 | [📈 Trade Intent NLP](https://github.com/s3achan/trade-intent-nlp-pos) | Buy/Sell intent detection using POS tagging & sentiment analysis | Python, NLP, ML |
 | [🏎️ F1 Sentiment Analysis](https://github.com/s3achan/F1-Tweets-SentimentAnalysis) | Sentiment analysis on F1 tweets | Python, NLP, Twitter API |
-| [🛒 E-commerce Customer Segmentation](https://github.com/s3achan/Ecommerce-Segmentation) | Customer & product analytics on 500K+ UK retail transactions — K-Means clustering, RFM analysis, revenue seasonality, cancellation trends | Python, K-Means, Seaborn, Pandas |
+| [🛒 E-commerce Customer Segmentation](https://github.com/s3achan/ecommerce-customer-segmentation) | Customer & product analytics on 500K+ UK retail transactions — K-Means clustering, RFM analysis, revenue seasonality, cancellation trends | Python, K-Means, Seaborn, Pandas |
 
 ---
 ## 🎓 Certifications
