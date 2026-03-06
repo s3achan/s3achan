@@ -1,26 +1,30 @@
-Senior Data Analyst | SQL | Python | Snowflake | dbt
+# Senior Data Analyst | Analytics Engineering | SQL • Python • Snowflake • dbt
 
-I build data products that combine analytics, machine learning,
-and simple interfaces to help businesses make better decisions.
+I build **data products and AI-powered analytics tools** that turn complex datasets into clear business insights.
 
-Focus Areas
-• Analytics engineering
-• GenAI-powered data tools
-• Revenue and fraud analytics
+My work focuses on **analytics engineering, machine learning, and GenAI systems** that help organizations understand customer behavior, detect fraud, and optimize revenue.
+
+**Core Areas**
+• Analytics Engineering & Data Modeling  
+• GenAI-powered Data Tools  
+• Revenue & Fraud Analytics  
 
 ## 🧠 About Me
 
-- 🤖 Building **NLP & Gen AI systems** — trade intent detection, sentiment analysis & LLM-powered tools
-- 🎬 Designed **recommender engines** — content-based (TF-IDF + cosine similarity) & collaborative filtering (MovieLens)
-- 💳 Built **fraud detection** pipelines with revenue optimization using Random Forest & XGBoost
-- 🚢 Built end-to-end **Titanic survival prediction** — feature engineering, 6 models compared achieving **~87% accuracy**
-- 🛒 Performed **customer segmentation** on 500K+ e-commerce transactions — K-Means clustering (Elbow + Silhouette), RFM behavior analysis, revenue seasonality & cancellation trend analysis
-- 🌳 Strong in **tree-based models** — Decision Trees, Random Forest, XGBoost with hyperparameter tuning & cross-validation
-- 📊 Strong in **ML evaluation** — RMSE, MAE, Precision@K, Recall@K, K-Means clustering & PCA
-- 🌱 Currently diving deeper into **LLMs, RAG pipelines & MLOps**
-- 🏅 **IBM Certified** Data Scientist & Data Analyst | **Stanford** Machine Learning Specialization
-- ☕ Powered by curiosity and coffee and F1 
+- 🤖 Building **GenAI & NLP systems** — trade intent detection, sentiment analysis, and LLM-powered analytics tools  
+- 🧾 Developed **AI Receipt Tracker** — production-style system using LLM vision to parse receipts, categorize spend, and generate analytics dashboards  
+- 🎬 Built **recommender systems** — content-based (TF-IDF + cosine similarity) and collaborative filtering (MovieLens)  
+- 💳 Built **fraud detection pipelines** using Random Forest & XGBoost with revenue optimization analysis  
+- 🛒 Performed **customer segmentation on 500K+ retail transactions** using RFM modeling, K-Means clustering, and behavioral analytics  
+- 📊 Strong in **tree-based ML models** — Decision Trees, Random Forest, XGBoost with hyperparameter tuning and cross-validation  
+- 📈 Experienced in **ML evaluation** — RMSE, MAE, Precision@K, Recall@K, clustering validation & dimensionality reduction (PCA)  
 
+Currently exploring **LLMs, RAG pipelines, and AI-powered data workflows**.
+
+🏅 **IBM Certified Data Scientist & Data Analyst**  
+🎓 **Machine Learning Specialization — Stanford**
+
+☕ Powered by curiosity, coffee, and **F1** 🏎️
 ---
 
 ## 🌟 Highlight Project — AI Receipt Tracker &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/s3achan/ai-receipt-tracker) &nbsp; [![Live Demo](https://img.shields.io/badge/Live-Demo-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://ledgerlens-ai.streamlit.app/)

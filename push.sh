@@ -1,5 +1,12 @@
 #!/bin/bash
 
+
+git rm -r --cached .ipynb_checkpoints/
+echo "**/.ipynb_checkpoints/" >> .gitignore
+git add .gitignore
+git commit -m "Ignore checkpoints forever"
+git push
+
 # ── Add, commit and push ───────────────────────────────────────────────────
 # Usage: bash push.sh "your commit message"
 
