@@ -1,9 +1,12 @@
 ## 🧠 About Me
 
-- 🔭 Currently building **GTM intelligence tools** with SQL, Python & Streamlit
-- 📊 Passionate about **NLP, recommender systems & financial data**
-- 🌱 Learning **deep learning & MLOps**
-- 💬 Ask me about **pandas, collaborative filtering, sentiment analysis**
+- 🤖 Building **NLP & Gen AI systems** — trade intent detection, sentiment analysis & LLM-powered tools
+- 🎬 Designed **recommender engines** — content-based (TF-IDF + cosine similarity) & collaborative filtering (MovieLens)
+- 💳 Built **fraud detection** pipelines with revenue optimization using Random Forest & XGBoost
+- 📊 Strong in **ML evaluation** — RMSE, MAE, Precision@K, Recall@K, clustering with K-Means & PCA
+- 🖼️ Explored **image processing** — PIL filters, pixel manipulation, numpy array operations
+- 🌱 Currently diving deeper into **LLMs, RAG pipelines & MLOps**
+- ☕ Powered by curiosity, coffee and F1 
 
 ---
 
