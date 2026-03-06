@@ -1,5 +1,10 @@
 # Senior Data Analyst 
 ## SQL • Python • Snowflake • dbt • Tableau
+"<h1>🚢 Ecommerce Customer & Product Analytics</h1>\n",
+    "<h4 style=\"color:#555; margin-top:-8px;\">\n",
+    "Understanding sales drivers, seasonality, customer behavior and segment customers using K-Means </h4>\n",
+    "\n",
+    "<hr style=\"border:1px solid #ddd;\">"
 
 I build **data products and AI-powered analytics tools** that turn complex datasets into clear business insights.
 
