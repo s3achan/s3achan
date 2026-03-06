@@ -4,6 +4,7 @@
 - 🎬 Designed **recommender engines** — content-based (TF-IDF + cosine similarity) & collaborative filtering (MovieLens)
 - 💳 Built **fraud detection** pipelines with revenue optimization using Random Forest & XGBoost
 - 🚢 Built end-to-end **Titanic survival prediction** — feature engineering, 6 models compared achieving **~87% accuracy**
+- 🛒 Performed **customer segmentation** on 500K+ e-commerce transactions — K-Means clustering (Elbow + Silhouette), RFM behavior analysis, revenue seasonality & cancellation trend analysis
 - 🌳 Strong in **tree-based models** — Decision Trees, Random Forest, XGBoost with hyperparameter tuning & cross-validation
 - 📊 Strong in **ML evaluation** — RMSE, MAE, Precision@K, Recall@K, K-Means clustering & PCA
 - 🌱 Currently diving deeper into **LLMs, RAG pipelines & MLOps**
@@ -45,6 +46,7 @@
 | [🚢 Titanic Survival Prediction](https://github.com/s3achan/Titanic-Survival-Eda) | Feature engineering + 6 model comparison achieving ~87% accuracy | Decision Tree, XGBoost, SVM, KNN |
 | [📈 Trade Intent NLP](https://github.com/s3achan/trade-intent-nlp-pos) | Buy/Sell intent detection using POS tagging & sentiment analysis | Python, NLP, ML |
 | [🏎️ F1 Sentiment Analysis](https://github.com/s3achan/F1-Tweets-SentimentAnalysis) | Sentiment analysis on F1 tweets | Python, NLP, Twitter API |
+| [🛒 E-commerce Customer Segmentation](https://github.com/s3achan/Ecommerce-Segmentation) | Customer & product analytics on 500K+ UK retail transactions — K-Means clustering, RFM analysis, revenue seasonality, cancellation trends | Python, K-Means, Seaborn, Pandas |
 
 ---
 ## 🎓 Certifications
@@ -78,10 +80,18 @@
 
 ![AWS](https://img.shields.io/badge/AWS_S3-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Scripting-121011?style=flat&logo=gnu-bash&logoColor=white)
+
+**Visualization & BI**
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)                                                            
+                                                            
 ---
 
 ## 📊 GitHub Stats
