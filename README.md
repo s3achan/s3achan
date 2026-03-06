@@ -24,7 +24,6 @@ Currently exploring **LLMs, RAG pipelines, and AI-powered data workflows**.
 
 🏅 **IBM Certified Data Scientist & Data Analyst**  
 🎓 **Machine Learning Specialization — Stanford**
-
 ☕ Powered by curiosity, coffee, and **F1** 🏎️
 ---
 
