@@ -48,7 +48,7 @@ Currently exploring **LLMs, RAG pipelines, and AI-powered data workflows**.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🎬 CineMatch](https://github.com/s3achan/CineMatch) | Content-based & collaborative filtering recommender with full ML evaluation | Python, TF-IDF, Cosine Similarity, KMeans |
+| [🎬 CineMatch](https://github.com/s3achan/CineMatch-Recommender-Systems) | Content-based & collaborative filtering recommender with full ML evaluation | Python, TF-IDF, Cosine Similarity, KMeans |
 | [💳 Credit Card Fraud Detection](https://github.com/s3achan/credit-card-fraud-revenue-optimization) [![Live Demo](https://img.shields.io/badge/Live-Demo-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://credit-card-fraud-revenue-optimization.streamlit.app) | Fraud detection with revenue optimization | Python, Random Forest, XGBoost, SHAP |
 | [🚢 Titanic Survival Prediction](https://github.com/s3achan/Titanic-Survival-Eda) | Feature engineering + 6 model comparison achieving ~87% accuracy | Decision Tree, XGBoost, SVM, KNN, Random Forest |
 | [📈 Trade Intent NLP](https://github.com/s3achan/trade-intent-nlp-pos) | Buy/Sell intent detection using POS tagging & sentiment analysis | Python, NLP, ML |
