@@ -6,7 +6,6 @@
 I build **data products and AI-powered analytics tools** that turn complex datasets into clear business insights.
 </h4>
 
-<hr>
 
 ## 🧠 About Me
 
