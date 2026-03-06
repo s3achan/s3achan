@@ -34,8 +34,9 @@
 
 **Tech:** Python • Streamlit • OpenAI API • PostgreSQL • SQLAlchemy • AWS S3 • Plotly • pandas • boto3
 
-🔗 [View on GitHub](https://github.com/s3achan/ai-receipt-tracker)
-
+🔗 [View on GitHub](https://github.com/s3achan/ai-receipt-tracker)  
+🚀 [Live Demo](https://ledgerlens-ai.streamlit.app/)
+                               
 ---
 
 ## 🚀 Other Projects
