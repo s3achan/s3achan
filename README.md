@@ -1,4 +1,5 @@
-> **Data Scientist | NLP • ML • Gen AI | Building intelligent data products that turn raw data into decisions. 🤖**
+> **Data Science Enthusiast | Turning ideas into deployed ML products 
+NLP • Gen AI • Recommender Systems • Python 🤖**
 
 ---
 
