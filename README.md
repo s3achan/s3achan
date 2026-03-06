@@ -16,7 +16,9 @@
 
 ---
 
-## ## 🌟 Highlight Project — AI Receipt Tracker &nbsp; [![Live Demo](https://img.shields.io/badge/Live-Demo-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://ledgerlens-ai.streamlit.app/)
+## 🌟 Highlight Project — AI Receipt Tracker &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/s3achan/ai-receipt-tracker) &nbsp; [![Live Demo](https://img.shields.io/badge/Live-Demo-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://ledgerlens-ai.streamlit.app/)
+    
+## 🌟 Highlight Project — AI Receipt Tracker &nbsp; [![Live Demo](https://img.shields.io/badge/Live-Demo-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://ledgerlens-ai.streamlit.app/)
 
 > **A production-grade AI-powered receipt parsing and spending tracker built end-to-end**
 
@@ -36,7 +38,6 @@
 **Tech:** Python • Streamlit • OpenAI API • PostgreSQL • SQLAlchemy • AWS S3 • Plotly • pandas • boto3
 
 🔗 [View on GitHub](https://github.com/s3achan/ai-receipt-tracker)  
-🚀 [Live Demo](https://ledgerlens-ai.streamlit.app/)
                                
 ---
 
