@@ -1,6 +1,7 @@
 # Senior Data Analyst
 ### 🐍 SQL • 🐍 Python • ❄️ Snowflake • 🔧 dbt • 📊 Tableau
 
+
 I build **data products and AI-powered analytics tools** that turn complex datasets into clear business insights.
 
 ## 🧠 About Me
