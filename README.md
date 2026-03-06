@@ -11,6 +11,7 @@
 - 🌳 Strong in **tree-based models** — Decision Trees, Random Forest, XGBoost with hyperparameter tuning & cross-validation
 - 📊 Strong in **ML evaluation** — RMSE, MAE, Precision@K, Recall@K, K-Means clustering & PCA
 - 🌱 Currently diving deeper into **LLMs, RAG pipelines & MLOps**
+- 🏅 **IBM Certified** Data Scientist & Data Analyst | **Stanford** Machine Learning Specialization
 - ☕ Powered by curiosity and coffee and F1 
 
 ---
@@ -50,6 +51,11 @@
 | [🏎️ F1 Sentiment Analysis](https://github.com/s3achan/F1-Tweets-SentimentAnalysis) | Sentiment analysis on F1 tweets | Python, NLP, Twitter API |
 
 ---
+## 🎓 Certifications
+
+[![IBM Data Scientist](https://img.shields.io/badge/IBM-Data_Scientist_Professional-054ADA?style=flat&logo=ibm&logoColor=white)](https://www.credly.com)
+[![IBM Data Analyst](https://img.shields.io/badge/IBM-Data_Analyst_Professional-054ADA?style=flat&logo=ibm&logoColor=white)](https://www.credly.com)
+[![Stanford ML](https://img.shields.io/badge/Stanford-Machine_Learning_Specialization-8C1515?style=flat&logo=coursera&logoColor=white)](https://www.coursera.org)
 
 ## 🛠️ Tech Stack
 
