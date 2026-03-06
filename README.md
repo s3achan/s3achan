@@ -2,14 +2,6 @@
 
 I build **data products and AI-powered analytics tools** that turn complex datasets into clear business insights.
 
-My work focuses on **analytics engineering, machine learning, and GenAI systems** that help organizations understand customer behavior, detect fraud, and optimize revenue.
-
-**Core Areas**
-
-• Analytics Engineering & Data Modeling  
-• GenAI-powered Data Tools  
-• Revenue & Fraud Analytics  
-
 ## 🧠 About Me
 
 - 🤖 Building **GenAI & NLP systems** — trade intent detection, sentiment analysis, and LLM-powered analytics tools  
