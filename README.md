@@ -1,6 +1,3 @@
-> **Data Science Enthusiast | Turning ideas into deployed ML products 
-NLP • Gen AI • Recommender Systems • Python 🤖**
-
 ---
 
 ## 🧠 About Me
