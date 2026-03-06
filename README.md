@@ -1,3 +1,13 @@
+Senior Data Analyst | SQL | Python | Snowflake | dbt
+
+I build data products that combine analytics, machine learning,
+and simple interfaces to help businesses make better decisions.
+
+Focus Areas
+• Analytics engineering
+• GenAI-powered data tools
+• Revenue and fraud analytics
+
 ## 🧠 About Me
 
 - 🤖 Building **NLP & Gen AI systems** — trade intent detection, sentiment analysis & LLM-powered tools
