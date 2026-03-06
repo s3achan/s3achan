@@ -81,7 +81,8 @@ Currently exploring **LLMs, RAG pipelines, and AI-powered data workflows**.
 
 **NLP & Gen AI**
 
-[![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat&logo=python&logoColor=white)](https://some-url-here)
+<img src="https://img.shields.io/badge/NLTK-154F5B?style=flat&logo=python&logoColor=white" alt="NLTK">
+
                                               
 ![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
